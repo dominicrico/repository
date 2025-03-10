@@ -5,8 +5,6 @@ Mopidy with plugins inside Home Assistant Supervisor.
 [![Release][release-badge]][release]
 ![Addon Stage][stage-badge]
 
-[![Donate][donation-badge]][donation-url]
-
 It contains following extensions:
 
 * [Mopidy-Iris](https://github.com/jaedb/iris)
